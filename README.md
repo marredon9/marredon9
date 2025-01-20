@@ -3,10 +3,10 @@
   <img src="https://github.com/user-attachments/assets/a3a60c27-5209-47e4-bbdb-877d85eaad21" alt="Working Work From Home GIF by Pudgy Penguins" width="250">
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: stretch;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <!-- Imagen Lateral Izquierda -->
-  <div style="width: 20%; display: flex; justify-content: center; align-items: stretch;">
-    <img src="https://github.com/user-attachments/assets/e8ec5002-f34c-43c1-bb5c-8bb906d015f0" alt="Side Image" style="height: 100vh; width: auto;">
+  <div style="width: 20%; display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/e8ec5002-f34c-43c1-bb5c-8bb906d015f0" alt="Side Image" style="height: 100%; width: 100%; object-fit: cover;">
   </div>
 
   <!-- Contenido Central -->
@@ -28,8 +28,8 @@
   </div>
 
   <!-- Imagen Lateral Derecha -->
-  <div style="width: 20%; display: flex; justify-content: center; align-items: stretch;">
-    <img src="https://github.com/user-attachments/assets/e8ec5002-f34c-43c1-bb5c-8bb906d015f0" alt="Side Image" style="height: 100vh; width: auto;">
+  <div style="width: 20%; display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/e8ec5002-f34c-43c1-bb5c-8bb906d015f0" alt="Side Image" style="height: 100%; width: 100%; object-fit: cover;">
   </div>
 </div>
 
