@@ -9,10 +9,10 @@
     <td width="20%" align="center" style="border: none;">
       <img src="https://github.com/user-attachments/assets/e8ec5002-f34c-43c1-bb5c-8bb906d015f0" alt="Side Image" width="100%">
     </td>
-    <td width="60%" align="center" style="border: none;">
+    <td width="60%" align="justify" style="border: none;">
       <h1>🚀 Welcome, Code Explorer! 🌍</h1>
       <p>
-        Hey there! Glad to have you here. This GitHub corner is where my ideas, experiments, and projects come to life.<br>
+        Hey there! Glad to have you here. This GitHub corner is where my ideas, experiments, and projects come to life.
         From web development to unexpected creations, there’s always something in the works.
       </p>
       <h2>🌟 What can you do here?</h2>
