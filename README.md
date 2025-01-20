@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a3a60c27-5209-47e4-bbdb-877d85eaad21" alt="Working Work From Home GIF by Pudgy Penguins" width="300">
+  <img src="https://github.com/user-attachments/assets/a3a60c27-5209-47e4-bbdb-877d85eaad21" alt="Working Work From Home GIF by Pudgy Penguins" width="250">
 </p>
 
 
