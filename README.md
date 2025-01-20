@@ -6,14 +6,13 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-  <td width="20%" align="center" style="border: none; vertical-align: top;">
-  <img src="https://github.com/user-attachments/assets/e8ec5002-f34c-43c1-bb5c-8bb906d015f0" alt="Side Image" style="height: 100%; width: auto;">
-</td>
-
-    <td width="60%" align="justify" style="border: none;">
+    <td width="20%" align="center" style="border: none; vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/e8ec5002-f34c-43c1-bb5c-8bb906d015f0" alt="Side Image" style="height: 100vh; width: auto;">
+    </td>
+    <td width="60%" align="center" style="border: none; text-align: justify;">
       <h1>🚀 Welcome, Code Explorer! 🌍</h1>
       <p>
-        Hey there! Glad to have you here. This GitHub corner is where my ideas, experiments, and projects come to life.
+        Hey there! Glad to have you here. This GitHub corner is where my ideas, experiments, and projects come to life.<br>
         From web development to unexpected creations, there’s always something in the works.
       </p>
       <h2>🌟 What can you do here?</h2>
@@ -26,9 +25,8 @@
       </p>
       <p>See you in the code! 😃</p>
     </td>
-<td width="20%" align="center" style="border: none; vertical-align: top;">
-  <img src="https://github.com/user-attachments/assets/e8ec5002-f34c-43c1-bb5c-8bb906d015f0" alt="Side Image" style="height: 100%; width: auto;">
-</td>
-
+    <td width="20%" align="center" style="border: none; vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/e8ec5002-f34c-43c1-bb5c-8bb906d015f0" alt="Side Image" style="height: 100vh; width: auto;">
+    </td>
   </tr>
 </table>
